@@ -1,5 +1,5 @@
 # jenkin-docker
 
 - Install jenkin in docker
-# Documentetion 
+# Documentation 
 - https://github.com/jenkinsci/docker/blob/master/README.md
